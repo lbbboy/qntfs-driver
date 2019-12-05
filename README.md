@@ -2,7 +2,7 @@
 **来源**	[lintel](https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=432734&ordertype=1 "悬停显示")
 
 
-##使用方法:
+## 使用方法:
 1. 下载解压,把qntfs-driver放到package/lean目录下。
 
 2. make menuconfig选择Kernel modules  --->Filesystems  --->
